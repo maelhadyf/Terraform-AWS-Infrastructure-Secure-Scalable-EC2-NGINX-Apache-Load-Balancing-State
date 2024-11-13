@@ -1,6 +1,7 @@
 # Terraform Infrastructure Setup
 
 This project sets up an AWS environment using Terraform, creating a secure, scalable infrastructure with a mix of public and private resources.
+![Infrastructure Diagram](https://github.com/your-username/your-repo-name/blob/main/path/to/your/image.png](https://github.com/maelhadyf/terraform-aws_task_2/blob/main/screenshots/topolgy.png)
 
 ## Project Overview
 
